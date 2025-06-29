@@ -2,7 +2,6 @@
 
 A modern, intelligent calendar application built with Next.js, React, and Supabase. Xelendar combines natural language processing with a beautiful, responsive interface to help you organize your life effortlessly.
 
-![Xelendar Screenshot](public/logo.png)
 
 ## 🌟 Features
 
