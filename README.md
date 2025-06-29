@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/xelendar/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/xelendar/discussions)
-- **Email**: support@xelendar.com
+- **Email**: yousofabdelrehim@gmail.com
 
 ## 🔄 Changelog
 
@@ -279,4 +279,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the Xelendar Team**
+**Made with ❤️**
